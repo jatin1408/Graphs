@@ -53,6 +53,10 @@ class Scratch {
                     System.out.println(s);
                     break;
                 }
+                if(k==0){
+                   System.out.println(1);
+                   break;
+               }
 
             }
 
